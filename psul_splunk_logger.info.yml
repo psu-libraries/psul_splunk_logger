@@ -1,0 +1,5 @@
+name: 'PSUL Splunk Logger'
+type: module
+description: 'Add Logger to output logs to stdout formatted for splunk.'
+package: PSU Libraries
+core_version_requirement: ^10 || ^11

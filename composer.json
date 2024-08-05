@@ -1,0 +1,12 @@
+{
+    "name": "psu-libraries/psul_splunk_logger",
+    "description": "Module to allow Drupal sites to log messages to PSUL Splunk",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Mike Henninger",
+            "email": "msh6004@psu.edu"
+        }
+    ],
+    "require": {}
+}

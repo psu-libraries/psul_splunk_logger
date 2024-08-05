@@ -1,0 +1,6 @@
+services:
+  logger.splunk_logger:
+    class: Drupal\psul_splunk_logger\Logger\SplunkLogger
+    arguments: ['@logger.log_message_parser']
+    tags:
+      - { name: logger }
